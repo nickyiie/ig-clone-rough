@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ig-clone",
-    "slug": "ig-clone",
+    "slug": "instagramclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ad9b9ba-c326-4da9-a77a-b8b79658b982"
+      }
+    },
+    "owner": "nickyii"
   }
 }
